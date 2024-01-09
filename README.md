@@ -15,7 +15,7 @@
 
 # **Introduction**
 
-This project aims to predict the likelihood of customer defaulting on their credit card payments in Taiwan. Predicting the estimated probability of default is valuable for risk management purposes, providing insights beyond binary classification.
+This project aims to predict the likelihood of customer defaulting on their credit card payments. Predicting the estimated probability of default is valuable for risk management purposes, providing insights beyond binary classification.
 
 **Business Objective:**
 
