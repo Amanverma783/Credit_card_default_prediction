@@ -45,7 +45,7 @@ Model performance was assessed using the following evaluation metrics:
 **F1 Score:** A balanced metric considering both precision and recall, providing an overall measure of model performance.
 **KS Statistic:** A metric measuring the model's ability to distinguish between positive and negative classes, important for credit risk assessment.
 
-# **Conclusion **
+# **Conclusion**
 
 * The main goal of the project was to create a machine learning model that predicts credit card payment defaults for the next month. After performing
 data visualization, I identified several important features related to defaulters. During feature engineering, I added a new feature representing
